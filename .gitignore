@@ -5,3 +5,5 @@ git_attributes
 **/remote
 
 *.s
+
+*.txt
